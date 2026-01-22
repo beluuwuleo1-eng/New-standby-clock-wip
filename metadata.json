@@ -1,0 +1,7 @@
+{
+  "name": "StandBy Desktop",
+  "description": "A visually stunning desktop clock inspired by Apple StandBy, featuring multiple clock faces, widgets, and AI-powered daily insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
